@@ -96,7 +96,7 @@
 ---
 ## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
   
 [![GitHub Followers](https://img.shields.io/github/followers/nirajandhungel?label=Follow%20me&style=social)](https://github.com/nirajandhungel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nirajan-dhungel/)
@@ -104,12 +104,12 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:subashdhungel555@gmail.com)
 
   
-</p>
+</div>
 
 ---
 <div align="center">
 
-✨ **Crafted by**  [Nirajan Dhungel](https://github.com/nirajandhungel)  🌌 **Visitors** <p> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme) </p>
+ 🌌 **Visitors** <p> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme) </p>
 
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
