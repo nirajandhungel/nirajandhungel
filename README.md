@@ -113,6 +113,13 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=HITS&labelColor=%230b0b23&countColor=%23ff2a6d&style=for-the-badge&gradient=true)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=PROFILE+VIEWS&labelColor=%232b2b2b&countColor=%2300C9A7&style=for-the-badge&gradient=true&logo=eye&logoColor=%23f0f0f0)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=TOTAL+HITS&labelColor=%231a1a1a&countColor=%23FF5733&style=for-the-badge&gradient=true&logo=fire&logoColor=%23FFFFFF)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=VIEWS&labelColor=%23333333&countColor=%2366CCEE&style=plastic&logo=arrow-right)
+
+
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
