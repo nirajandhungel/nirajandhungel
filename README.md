@@ -106,9 +106,8 @@
 
 **Visitors** 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=Profile+Visitors&labelColor=%23333333&countColor=%2300008B&style=plastic&logo=arrow-right)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=Profile+Views&labelColor=%23333333&countColor=%2300008B&style=plastic&logo=arrow-right)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=PROFILE+VIEWS&labelColor=%23333333&countColor=%23000000&style=plastic&logo=arrow-right)
 
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
