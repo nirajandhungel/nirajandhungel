@@ -102,8 +102,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-informational?logo=facebook&style=social)](https://www.facebook.com/subash.dhungel.712/)
 [![X](https://img.shields.io/badge/X-Follow-informational?logo=x&style=social)](https://x.com/SubashDhungel18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&style=social)](https://www.linkedin.com/in/nirajan-dhungel/)
+🌌 **Visitors**
 
- 🌌 **Visitors** <p> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme) </p>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.nirajandhungel)
+
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
