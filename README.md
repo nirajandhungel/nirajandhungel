@@ -117,7 +117,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=TOTAL+HITS&labelColor=%231a1a1a&countColor=%23FF5733&style=for-the-badge&gradient=true&logo=fire&logoColor=%23FFFFFF)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=VIEWS&labelColor=%23333333&countColor=%2366CCEE&style=plastic&logo=arrow-right)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=PROFILE+VIEWS&labelColor=%23333333&countColor=%2366CCEE&style=plastic&logo=arrow-right)
 
 
   <!-- Animated Wave -->
