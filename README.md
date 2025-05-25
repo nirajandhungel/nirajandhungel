@@ -157,7 +157,7 @@
   <!-- Profile Stats & Info -->
   <div style="margin: 20px 0;">
     
-    <!-- Visitor Counter with Style -->
-    <img src="https://komarev.com/ghpvc/?username=nirajandhungel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" style="margin: 10px;"/>
+
+  <img src="https://komarev.com/ghpvc/?username=nirajandhungel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" style="margin: 10px;"/>
     
-    <!-- GitHub
+ 
