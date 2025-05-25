@@ -95,30 +95,21 @@
 
 ---
 
-## 📫 **Let's Connect**
+## 🌟 Let's Connect
 
-<div >
+<div align="center" style="margin-bottom: 20px;">
 
-<a href="https://www.linkedin.com/in/nirajan-dhungel/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-</a>
-
-<a href="https://x.com/SubashDhungel18" target="_blank">
- <img width="40" height="40" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>
-</a>
-
-<a href="mailto:subashdhungel555@gmail.com" target="_blank">
-<img width="40" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajan-dhungel/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SubashDhungel18)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subashdhungel555@gmail.com)
 
 </div>
 
 ---
 
-<div >
+<div align="center" style="margin-top: 20px;">
 
-⭐ **From** [Nirajan Dhungel](https://github.com/nirajandhungel)
-
-🚀 **Visitors** ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
+✨ **From** [Nirajan Dhungel](https://github.com/nirajandhungel)  
+📊 **Visitors** ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
 
 </div>
