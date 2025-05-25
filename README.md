@@ -106,7 +106,7 @@
 
 🌌 **Visitors**
 
-![Visitor Count][(https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.nirajandhungel)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nirajandhungel
+[(https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.nirajandhungel)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nirajandhungel
 )
 
   <!-- Animated Wave -->
