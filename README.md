@@ -104,11 +104,11 @@
 </a>
 
 <a href="https://x.com/SubashDhungel18" target="_blank">
- <img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>
+ <img width="40" height="40" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>
 </a>
 
 <a href="mailto:subashdhungel555@gmail.com" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+<img width="40" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
 </a>
 
 </div>
