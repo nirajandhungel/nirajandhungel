@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nirajan Dhungel!
+# 👋 Hello, I'm Nirajan Dhungel !
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&style=social)](https://www.linkedin.com/in/nirajan-dhungel/)
 
 
-👀 **Visitors** 🌌
+**Visitors** 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=PROFILE+VIEWS&labelColor=%23333333&countColor=%23000000&style=plastic&logo=arrow-right)
 
