@@ -109,9 +109,10 @@
 ## 👀 Visitors
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=Visitors&labelColor=%23555555&countColor=%23d9e3f0&style=flat-square)
 
-![HitCount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%2300ff88&style=for-the-badge&gradient=true)
 
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=nirajandhungel&repo=nirajandhungel&label=Visitors&color=blue&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=HITS&labelColor=%230b0b23&countColor=%23ff2a6d&style=for-the-badge&gradient=true)
+
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
