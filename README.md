@@ -97,7 +97,6 @@
 ## 🌐 Let's Connect
 
 <div align="center">
-## 🌐 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-informational?logo=instagram&style=social)](https://www.instagram.com/nirajan.dhungel19/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-informational?logo=facebook&style=social)](https://www.facebook.com/subash.dhungel.712/)
