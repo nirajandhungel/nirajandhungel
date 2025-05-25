@@ -107,13 +107,11 @@
 🌌 **Visitors**
 
 ## 👀 Visitors
-![Visitor Count](https://countapi.xyz/hit/nirajandhungel/visits)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=Visitors&labelColor=%23555555&countColor=%23d9e3f0&style=flat-square)
 
-![Visitor Count](https://countapi.xyz/hit/nirajandhungel.github.io/visits?style=flat-square)
+![HitCount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=nirajandhungel.nirajandhungel)
-
-
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=nirajandhungel&repo=nirajandhungel&label=Visitors&color=blue&style=flat-square)
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
