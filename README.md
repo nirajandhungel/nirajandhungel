@@ -97,7 +97,7 @@
 
 ## 📫 **Let's Connect**
 
-<div align="center">
+<div >
 
 <a href="https://www.linkedin.com/in/nirajan-dhungel/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
@@ -115,9 +115,10 @@
 
 ---
 
-<div align="center">
+<div >
 
 ⭐ **From** [Nirajan Dhungel](https://github.com/nirajandhungel)
+
 🚀 **Visitors** ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
 
 </div>
