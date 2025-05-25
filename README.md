@@ -61,17 +61,14 @@
 
 <div align="center">
 
-### 🐍 **Python Projects**
-<a href="https://github.com/nirajandhungel/projectname" target="_blank">
+### 🐍 **Python Project: Taxi Booking System**
+<a href="https://github.com/nirajandhungel/Taxi-Booking-System" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajandhungel&repo=projectname&theme=dark" />
 </a>
 
-<a href="https://github.com/nirajandhungel/anotherproject" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajandhungel&repo=anotherproject&theme=dark" />
-</a>
 
 ### ☕ **Java Projects**
-<a href="https://github.com/nirajandhungel/javaproject" target="_blank">
+<a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajandhungel&repo=javaproject&theme=dark" />
 </a>
 
