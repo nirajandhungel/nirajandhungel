@@ -67,7 +67,7 @@
 </a>
 
 
-### ☕ **Java Projects**
+### ☕ **Java Project: Sahara Rentals**
 <a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajandhungel&repo=javaproject&theme=dark" />
 </a>
