@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nirajan Dhungel!
 
-<div align="center">
+<div >
 
 🎯 Passionate Developer | 💻 Full-Stack Enthusiast | 🚀 Open Source Contributor
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div>
 
 ### Programming Languages
 <p>
@@ -53,7 +53,7 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div >
 
 ### 🐍 Python Projects
 1. **[Project Name]** - Short description of what it does  
@@ -80,7 +80,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div >
 
 ![Nirajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajandhungel&show_icons=true&theme=radical)
 
@@ -92,7 +92,7 @@
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div >
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajan-dhungel/){:target="_blank"}
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SubashDhungel18){:target="_blank"}
@@ -102,7 +102,7 @@
 
 ---
 
-<div align="center">
+<div >
 
 ⭐ From [Nirajan Dhungel](https://github.com/nirajandhungel){:target="_blank"}
 
