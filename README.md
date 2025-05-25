@@ -116,3 +116,48 @@
 🌌 **Visitors**  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
 
 </div>
+
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+  
+  <!-- Connection Badges with Enhanced Styling -->
+  <div style="margin: 20px 0;">
+    <a href="https://www.linkedin.com/in/nirajan-dhungel/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://x.com/SubashDhungel18" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" style="margin: 0 10px;"/>
+    </a>
+    <a href="mailto:subashdhungel555@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="margin: 0 10px;"/>
+    </a>
+  </div>
+
+  <!-- Additional Social Links -->
+  <div style="margin: 15px 0;">
+    <a href="https://github.com/nirajandhungel" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 5px;"/>
+    </a>
+    <a href="https://discord.com/users/your-discord-id" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-Chat%20with%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 0 5px;"/>
+    </a>
+  </div>
+
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Animated Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  
+  <!-- Profile Stats & Info -->
+  <div style="margin: 20px 0;">
+    
+    <!-- Visitor Counter with Style -->
+    <img src="https://komarev.com/ghpvc/?username=nirajandhungel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" style="margin: 10px;"/>
+    
+    <!-- GitHub
