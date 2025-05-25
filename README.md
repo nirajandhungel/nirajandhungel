@@ -99,15 +99,16 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nirajan-dhungel/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
 </a>
 
 <a href="https://x.com/SubashDhungel18" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
 </a>
 
 <a href="mailto:subashdhungel555@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.icons8.com/color/48/gmail--v1.png" height="45" width="45" alt="gmail icon"/>
+
 </a>
 
 </div>
