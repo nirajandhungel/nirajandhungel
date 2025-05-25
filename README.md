@@ -110,6 +110,9 @@
 
 ![Visitor Count](https://countapi.xyz/hit/nirajandhungel.github.io/visits?style=flat-square)
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=nirajandhungel.readme)
+
+
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
