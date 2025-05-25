@@ -103,12 +103,11 @@
 </a>
 
 <a href="https://x.com/SubashDhungel18" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
+ <img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>
 </a>
 
 <a href="mailto:subashdhungel555@gmail.com" target="_blank">
-<img src="https://img.icons8.com/color/48/gmail--v1.png" height="45" width="45" alt="gmail icon"/>
-
+<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
 </a>
 
 </div>
