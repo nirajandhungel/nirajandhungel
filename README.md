@@ -97,8 +97,10 @@
 ## 🌐 Let's Connect
 
 <div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-–%20Follow-informational?logo=instagram&style=social)](https://www.instagram.com/nirajan.dhungel19/)
-[![Facebook](https://img.shields.io/badge/Facebook-–%20Connect-informational?logo=facebook&style=social)](https://www.facebook.com/subash.dhungel.712/)
+## 🌐 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-informational?logo=instagram&style=social)](https://www.instagram.com/nirajan.dhungel19/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-informational?logo=facebook&style=social)](https://www.facebook.com/subash.dhungel.712/)
 [![GitHub Followers](https://img.shields.io/github/followers/nirajandhungel?label=Follow%20me&style=social)](https://github.com/nirajandhungel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nirajan-dhungel/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/SubashDhungel18)
