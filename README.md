@@ -5,8 +5,8 @@
 🎯 Passionate Developer | 💻 Full-Stack Enthusiast | 🚀 Open Source Contributor
 
 [![GitHub Followers](https://img.shields.io/github/followers/nirajandhungel?label=Follow%20me&style=social)](https://github.com/nirajandhungel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nirajan-dhungel/){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/SubashDhungel18){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nirajan-dhungel/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/SubashDhungel18)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:subashdhungel555@gmail.com)
 
 </div>
@@ -19,11 +19,11 @@
 
 ### **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 </p>
 
 ### **Frontend Development**
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-⭐ **From** [Nirajan Dhungel](https://github.com/nirajandhungel){:target="_blank"}  
+⭐ **From** [Nirajan Dhungel](https://github.com/nirajandhungel)
 🚀 **Visitors** ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
 
 </div>
