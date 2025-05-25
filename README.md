@@ -109,7 +109,7 @@
 ## 👀 Visitors
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=Visitors&labelColor=%23555555&countColor=%23d9e3f0&style=flat-square)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%2300ff88&style=for-the-badge&gradient=true)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=PROFILE+VIEWS&labelColor=%23000000&countColor=%2300ff88&style=flat-square&gradient=true)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnirajandhungel%2Fnirajandhungel&label=HITS&labelColor=%230b0b23&countColor=%23ff2a6d&style=for-the-badge&gradient=true)
 
