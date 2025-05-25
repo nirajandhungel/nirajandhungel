@@ -101,10 +101,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-informational?logo=instagram&style=social)](https://www.instagram.com/nirajan.dhungel19/)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-informational?logo=facebook&style=social)](https://www.facebook.com/subash.dhungel.712/)
-[![GitHub Followers](https://img.shields.io/github/followers/nirajandhungel?label=Follow%20me&style=social)](https://github.com/nirajandhungel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nirajan-dhungel/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/SubashDhungel18)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:subashdhungel555@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&style=social)](https://www.linkedin.com/in/nirajan-dhungel/)
+[![X](https://img.shields.io/badge/X-Follow-informational?logo=x&style=social)](https://x.com/SubashDhungel18)
+
 
   
 </div>
