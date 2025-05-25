@@ -94,44 +94,30 @@
 </div>
 
 ---
-
 ## 🌐 Let's Connect
 
-<div align="center" style="margin: 2rem 0;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirajan-dhungel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/SubashDhungel18" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:subashdhungel555@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-@Nirajan-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirajan-dhungel/)](https://www.linkedin.com/in/nirajan-dhungel/)
-  
-[![Twitter](https://img.shields.io/badge/-@Subash-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/SubashDhungel18)](https://x.com/SubashDhungel18)
-  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subashdhungel555@gmail.com)](mailto:subashdhungel555@gmail.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nirajandhungel/nirajandhungel/main/assets/divider.png" width="80%"/>
+</p>
 
-</div>
+<div align="center">
 
-<div align="center" style="margin: 1.5rem 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="75%" height="40px">
-</div>
+✨ **Crafted by**  
+[Nirajan Dhungel](https://github.com/nirajandhungel)  
 
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
-
-<div style="padding: 1rem; background: rgba(255,255,255,0.1); border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-✨ **Crafted by**<br> 
-[Nirajan Dhungel](https://github.com/nirajandhungel)
-</div>
-
-<div style="padding: 1rem; background: rgba(255,255,255,0.1); border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-🌌 **Visitors**<br>
+🌌 **Visitors**  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
-</div>
 
 </div>
-
-<style>
-  img[alt="divider"] {
-    margin: -10px 0;
-    opacity: 0.7;
-  }
-  a:hover {
-    transform: translateY(-2px);
-    transition: all 0.3s ease;
-  }
-</style>
