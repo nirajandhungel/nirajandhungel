@@ -108,16 +108,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nirajandhungel/nirajandhungel/main/assets/divider.png" width="80%"/>
-</p>
-
+---
 <div align="center">
 
-✨ **Crafted by**  
-[Nirajan Dhungel](https://github.com/nirajandhungel)  
+✨ **Crafted by**  [Nirajan Dhungel](https://github.com/nirajandhungel)  
 
-🌌 **Visitors**  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
+🌌 **Visitors**  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
 
 </div>
