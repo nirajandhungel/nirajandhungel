@@ -106,13 +106,8 @@
 
 🌌 **Visitors**
 
-[(https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.nirajandhungel)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nirajandhungel
-)
 
-
-🌌 **Visitors**  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nirajandhungel&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
+![Visitor Count](https://countapi.xyz/hit/nirajandhungel.github.io/visits?style=flat-square)
 
   <!-- Animated Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
