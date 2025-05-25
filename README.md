@@ -2,7 +2,7 @@
 
 🎯 Passionate Developer | 💻 Full-Stack Enthusiast | 🚀 Open Source Contributor
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20me&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/nirajandhungel?label=Follow%20me&style=social)](https://github.com/nirajandhungel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourhandle)
 
@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
 </p>
 
 ### Backend & Databases
@@ -73,10 +74,10 @@
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: youremail@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nirajan-dhungel/)
+- 🐦 [Twitter](https://x.com/SubashDhungel18)
+- 📧 Email: subashdhungel555@gmail.com
 
 ---
 
-⭐ From [YourName](https://github.com/yourusername)
+⭐ From Nirajan Dhungel (https://github.com/nirajandhungel)
