@@ -97,21 +97,24 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nirajan-dhungel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/SubashDhungel18" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:subashdhungel555@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  
+[![GitHub Followers](https://img.shields.io/github/followers/nirajandhungel?label=Follow%20me&style=social)](https://github.com/nirajandhungel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nirajan-dhungel/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/SubashDhungel18)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:subashdhungel555@gmail.com)
+
+  
 </p>
 
 ---
 <div align="center">
 
 ✨ **Crafted by**  [Nirajan Dhungel](https://github.com/nirajandhungel)  
+
+  
+  <!-- Animated Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  
 
 🌌 **Visitors** <p> ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme) </p>
 
@@ -150,10 +153,7 @@
 ---
 
 <div align="center">
-  
-  <!-- Animated Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-  
+
   <!-- Profile Stats & Info -->
   <div style="margin: 20px 0;">
     
