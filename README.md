@@ -113,7 +113,7 @@
 
 ✨ **Crafted by**  [Nirajan Dhungel](https://github.com/nirajandhungel)  
 
-🌌 **Visitors**  ![Visitor Count] <div> (https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme) </div>
+🌌 **Visitors**  ![Visitor Count] (https://visitor-badge.laobi.icu/badge?page_id=nirajandhungel.readme)
 
 </div>
 
