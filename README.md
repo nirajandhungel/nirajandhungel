@@ -85,8 +85,6 @@
 
 <div align="center">
 
-why is my streaks not showing
-
 ![Nirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajandhungel&show_icons=true&theme=radical&include_all_commits=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nirajandhungel&theme=dark)](https://git.io/streak-stats)
