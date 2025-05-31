@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Nirajan Dhungel !
-7 th one
 <div align="center">
 🎯 Product Developer | 💻 Full-Stack Enthusiast | 🚀 Open Source Contributor
    
