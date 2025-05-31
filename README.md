@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nirajan Dhungel !
 
 <div align="center">
-edited readmem/md  new me
+edited readmem/md  new me change it 
 🎯 Product Developer | 💻 Full-Stack Enthusiast | 🚀 Open Source Contributor
    
 [![GitHub Followers](https://img.shields.io/github/followers/nirajandhungel?label=Follow%20me&style=social)](https://github.com/nirajandhungel)
