@@ -110,6 +110,6 @@
 
 
   <!-- Animated Wave -->
- <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/> -->
+ <<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/> 
 </div>
 
