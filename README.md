@@ -55,80 +55,85 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div align="center" style="max-width: 800px; margin: auto;">
 
-<table>
-<tr>
-<td align="center" width="800">
-<h3 style="margin-top: 20px; font-size: 1.5rem; color: #58a6ff;">💰 Expense Tracker (React)</h3>
-<p style="max-width: 700px; margin: 10px auto 20px; color: #c9d1d9;">📌 Web app built with React to track expenses, visualize spending habits with interactive charts, and manage budgets effectively with user-friendly dashboard.</p>
+  <!-- Expense Tracker Project -->
+  <section style="margin-bottom: 50px; text-align: center;">
+    <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">💰 Expense Tracker (React)</h3>
+    <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
+      📌 Web app built with React to track expenses, visualize spending habits with interactive charts, and manage budgets effectively with user-friendly dashboard.
+    </p>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
+      <a href="https://github.com/nirajandhungel/Expense-Tracker" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30" />
+      </a>
+      <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Read_Docs-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black&color=58a6ff" alt="Read Docs" />
+      </a>
+      <a href="https://github.com/nirajandhungel/Expense-Tracker/issues" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Report_Issue-FFFFFF?style=for-the-badge&logo=github&logoColor=black&color=58a6ff" alt="Report Issue" />
+      </a>
+    </div>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="30" height="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="30" height="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="30" height="30" />
+    </div>
+    <div style="margin-top: 25px;">
+      <a href="https://github.com/nirajandhungel/Expense-Tracker" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/expense-tracker-screenshot.png" alt="Expense Tracker Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      </a>
+    </div>
+  </section>
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://github.com/nirajandhungel/Expense-Tracker" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
-  </a>
-  <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Read_Docs-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black&color=58a6ff"/>
-  </a>
-  <a href="https://github.com/nirajandhungel/Expense-Tracker/issues" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Report_Issue-FFFFFF?style=for-the-badge&logo=github&logoColor=black&color=58a6ff"/>
-  </a>
+  <!-- Taxi Booking System Project -->
+  <section style="margin-bottom: 50px; text-align: center;">
+    <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">🚖 Python Taxi Booking System</h3>
+    <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
+      📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.
+    </p>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
+      <a href="https://github.com/nirajandhungel/Taxi-Booking-System" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff" alt="View Project" />
+      </a>
+    </div>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=20232a" alt="Python" />
+      <img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black&style=for-the-badge&labelColor=20232a" alt="Tkinter" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=20232a" alt="SQLite" />
+    </div>
+    <div style="margin-top: 25px;">
+      <a href="https://github.com/nirajandhungel/Taxi-Booking-System" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/user-attachments/assets/taxi-booking-screenshot.png" alt="Taxi Booking System Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      </a>
+    </div>
+  </section>
+
+  <!-- Sahara Rentals Project -->
+  <section style="margin-bottom: 50px; text-align: center;">
+    <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">🚙 Java Sahara Rentals</h3>
+    <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
+      📌 Java-based car rental management system with booking management, vehicle inventory, and customer tracking.
+    </p>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
+      <a href="https://github.com/nirajandhungel/Sahara-Rentals" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff" alt="View Project" />
+      </a>
+    </div>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a" alt="Java" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=20232a" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Swing-527AA3?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a" alt="Swing" />
+    </div>
+    <div style="margin-top: 25px;">
+      <a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank" rel="noopener noreferrer">
+        <img src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%20and%20customer%20records.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" alt="Sahara Rentals Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      </a>
+    </div>
+  </section>
+
 </div>
 
-<div style="margin-top: 20px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="30" height="30"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>
-</div>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="800">
-<a href="https://github.com/nirajandhungel/Taxi-Booking-System">
-  <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)" alt="Taxi Booking System" src="https://github.com/user-attachments/assets/96811919-6e9a-40ef-9f88-3f6a62b82f4a" />
-</a>
-<h3 style="margin-top: 20px; font-size: 1.5rem; color: #58a6ff;">🚖 Python Taxi Booking System</h3>
-<p style="max-width: 700px; margin: 10px auto 20px; color: #c9d1d9;">📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.</p>
-
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://github.com/nirajandhungel/Taxi-Booking-System" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff"/>
-  </a>
-</div>
-
-<div style="margin-top: 20px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=20232a"/>
-  <img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black&style=for-the-badge&labelColor=20232a"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=20232a"/>
-</div>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="800">
-<a href="https://github.com/nirajandhungel/Sahara-Rentals">
-  <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)" alt="Sahara Rentals" src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%20and%20customer%20records.&font=Raleway&pattern=Floating%20Cogs&theme=Dark"/>
-</a>
-<h3 style="margin-top: 20px; font-size: 1.5rem; color: #58a6ff;">🚙 Java Sahara Rentals</h3>
-<p style="max-width: 700px; margin: 10px auto 20px; color: #c9d1d9;">📌 Java-based car rental management system with booking management, vehicle inventory, and customer tracking.</p>
-
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://github.com/nirajandhungel/Sahara-Rentals" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff"/>
-  </a>
-</div>
-
-<div style="margin-top: 20px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=20232a"/>
-  <img src="https://img.shields.io/badge/Swing-527AA3?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a"/>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 📈 **GitHub Stats**
 
