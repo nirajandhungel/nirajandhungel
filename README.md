@@ -70,26 +70,12 @@
 </a>
 
 ### 🌐 React Web Application
-<a href="https://github.com/nirajandhungel/expense-tracker">
+<a href="https://github.com/nirajandhungel/Expense-Tracker">
   <img src="https://socialify.git.ci/nirajandhungel/reactapp/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="500" alt="React App"/>
 </a>
 
 </div>
 
-## 📊 GitHub Stats & Contributions
-
-<div align="center">
-
-![Nirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajandhungel&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajandhungel&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nirajandhungel&theme=radical)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nirajandhungel&theme=react-dark&hide_border=true&area=true)
-
-</div>
----
 
 ## 📈 **GitHub Stats**
 
@@ -100,6 +86,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nirajandhungel&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajandhungel&layout=compact&theme=dark&hide=html,css)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nirajandhungel&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
