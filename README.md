@@ -81,7 +81,7 @@
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Expense-Tracker" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/expense-tracker-screenshot.png" alt="Expense Tracker Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <img width="1898" height="936" alt="image" src="https://github.com/user-attachments/assets/fa6a4520-9ce5-4643-9c67-cd868c0f40a4" alt="Expense Tracker Screenshot" />
       </a>
     </div>
   </section>
@@ -104,7 +104,7 @@
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Taxi-Booking-System" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/taxi-booking-screenshot.png" alt="Taxi Booking System Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/e0a0094e-3ca1-42cd-a88e-e504180f503b" alt="Taxi Booking System Screenshot" />
       </a>
     </div>
   </section>
