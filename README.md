@@ -60,15 +60,12 @@
 <table>
 <tr>
 <td align="center" width="800">
-<a href="https://github.com/nirajandhungel/Expense-Tracker">
-  <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" alt="Expense Tracker" src="https://github.com/nirajandhungel/user-attachments/assets/e3838e6c-01d0-4af5-8e76-e6fbd4e44257" />
-</a>
 <h3 style="margin-top: 20px; font-size: 1.5rem; color: #58a6ff;">💰 Expense Tracker (React)</h3>
 <p style="max-width: 700px; margin: 10px auto 20px; color: #c9d1d9;">📌 Web app built with React to track expenses, visualize spending habits with interactive charts, and manage budgets effectively with user-friendly dashboard.</p>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/nirajandhungel/Expense-Tracker" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
   </a>
   <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Read_Docs-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black&color=58a6ff"/>
@@ -79,10 +76,9 @@
 </div>
 
 <div style="margin-top: 20px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=20232a"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge&labelColor=20232a"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=20232a"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="30" height="30"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>
 </div>
 </td>
 </tr>
