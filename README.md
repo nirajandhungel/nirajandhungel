@@ -59,24 +59,36 @@
 
 <div align="center">
 
-### 🐍 **Python Project: Taxi Booking System**
-<a href="https://github.com/nirajandhungel/Taxi-Booking-System" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajandhungel&repo=projectname&theme=dark" />
+### 🚖 Python Taxi Booking System
+<a href="https://github.com/nirajandhungel/Taxi-Booking-System">
+  <img src="https://socialify.git.ci/nirajandhungel/Taxi-Booking-System/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="500" alt="Taxi Booking System"/>
 </a>
 
-
-### ☕ **Java Project: Sahara Rentals**
-<a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajandhungel&repo=javaproject&theme=dark" />
+### � Java Sahara Rentals
+<a href="https://github.com/nirajandhungel/Sahara-Rentals">
+  <img src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="500" alt="Sahara Rentals"/>
 </a>
 
-### 🌐 **Web Projects**
-<a href="https://github.com/nirajandhungel/reactapp" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajandhungel&repo=reactapp&theme=dark" />
+### 🌐 React Web Application
+<a href="https://github.com/nirajandhungel/reactapp">
+  <img src="https://socialify.git.ci/nirajandhungel/reactapp/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="500" alt="React App"/>
 </a>
 
 </div>
 
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+
+![Nirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajandhungel&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajandhungel&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nirajandhungel&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nirajandhungel&theme=react-dark&hide_border=true&area=true)
+
+</div>
 ---
 
 ## 📈 **GitHub Stats**
