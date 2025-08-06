@@ -87,7 +87,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajandhungel&layout=compact&theme=dark&hide=html,css)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nirajandhungel&theme=react-dark&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirajandhungel&theme=react-dark&hide_border=true&area=true)
+
 
 </div>
 
