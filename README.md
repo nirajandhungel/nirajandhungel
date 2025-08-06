@@ -63,18 +63,10 @@
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 Web app built with React to track expenses, visualize spending habits with interactive charts, and manage budgets effectively with user-friendly dashboard.
     </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
-      <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
-        <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8c9430ff-2419-4825-b0d5-409b060cb2e3" alt="Read Docs"  width="30" height="30"/>
-      </a>
-      <a href="https://github.com/nirajandhungel/Expense-Tracker/issues" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project"  width="30" height="30"  />
-      </a>
-    </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="30" height="30" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="30" height="30" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="30" height="30" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="50" height="50" />
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Expense-Tracker" target="_blank" rel="noopener noreferrer">
@@ -89,14 +81,9 @@
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.
     </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
-      <a href="https://github.com/nirajandhungel/Taxi-Booking-System" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project"  width="30" height="30"  />
-      </a>
-    </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="50" height="50"/>
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Taxi-Booking-System" target="_blank" rel="noopener noreferrer">
@@ -111,14 +98,9 @@
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 Java-based car rental management system with booking management, vehicle inventory, and customer tracking.
     </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
-      <a href="https://github.com/nirajandhungel/Sahara-Rentals" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project"  width="30" height="30"  />
-      </a>
-    </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="50" height="50"/>
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank" rel="noopener noreferrer">
