@@ -53,7 +53,6 @@
 
 </div>
 
----
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -61,44 +60,79 @@
 <table>
 <tr>
 <td align="center" width="800">
-<a href="https://github.com/nirajandhungel/Taxi-Booking-System">
-  <img width="100%" height="707" alt="image" src="https://github.com/user-attachments/assets/96811919-6e9a-40ef-9f88-3f6a62b82f4a"  alt="Taxi Booking System" />
+<a href="https://github.com/nirajandhungel/Expense-Tracker">
+  <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" alt="Expense Tracker" src="https://github.com/nirajandhungel/user-attachments/assets/e3838e6c-01d0-4af5-8e76-e6fbd4e44257" />
 </a>
-<h3>🚖 Python Taxi Booking System</h3>
-<p>📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black&style=for-the-badge"/>
+<h3 style="margin-top: 20px; font-size: 1.5rem; color: #58a6ff;">💰 Expense Tracker (React)</h3>
+<p style="max-width: 700px; margin: 10px auto 20px; color: #c9d1d9;">📌 Web app built with React to track expenses, visualize spending habits with interactive charts, and manage budgets effectively with user-friendly dashboard.</p>
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/nirajandhungel/Expense-Tracker" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff"/>
+  </a>
+  <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Read_Docs-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black&color=58a6ff"/>
+  </a>
+  <a href="https://github.com/nirajandhungel/Expense-Tracker/issues" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Report_Issue-FFFFFF?style=for-the-badge&logo=github&logoColor=black&color=58a6ff"/>
+  </a>
+</div>
+
+<div style="margin-top: 20px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="800">
+<a href="https://github.com/nirajandhungel/Taxi-Booking-System">
+  <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)" alt="Taxi Booking System" src="https://github.com/user-attachments/assets/96811919-6e9a-40ef-9f88-3f6a62b82f4a" />
+</a>
+<h3 style="margin-top: 20px; font-size: 1.5rem; color: #58a6ff;">🚖 Python Taxi Booking System</h3>
+<p style="max-width: 700px; margin: 10px auto 20px; color: #c9d1d9;">📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.</p>
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/nirajandhungel/Taxi-Booking-System" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff"/>
+  </a>
+</div>
+
+<div style="margin-top: 20px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+</div>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="800">
 <a href="https://github.com/nirajandhungel/Sahara-Rentals">
-  <img src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%20and%20customer%20records.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Sahara Rentals"/>
+  <img width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2)" alt="Sahara Rentals" src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%20and%20customer%20records.&font=Raleway&pattern=Floating%20Cogs&theme=Dark"/>
 </a>
-<h3>🚙 Java Sahara Rentals</h3>
-<p>📌 Java-based car rental management system with booking management, vehicle inventory, and customer tracking.</p>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-</td>
-</tr>
+<h3 style="margin-top: 20px; font-size: 1.5rem; color: #58a6ff;">🚙 Java Sahara Rentals</h3>
+<p style="max-width: 700px; margin: 10px auto 20px; color: #c9d1d9;">📌 Java-based car rental management system with booking management, vehicle inventory, and customer tracking.</p>
 
-<tr>
-<td align="center" width="800">
-<a href="https://github.com/nirajandhungel/Expense-Tracker">
-  <img src="https://socialify.git.ci/nirajandhungel/Expense-Tracker/image?description=1&descriptionEditable=Modern%20React%20web%20app%20for%20tracking%20expenses%20and%20visualising%20spending%20habits.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Expense Tracker"/>
-</a>
-<h3>🌐 Expense Tracker (React)</h3>
-<p>📌 Web app built with React to track expenses, visualise spending habits with charts, and manage budgets effectively.</p>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/nirajandhungel/Sahara-Rentals" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff"/>
+  </a>
+</div>
+
+<div style="margin-top: 20px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+  <img src="https://img.shields.io/badge/Swing-527AA3?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a"/>
+</div>
 </td>
 </tr>
 </table>
 
 </div>
-
 
 ## 📈 **GitHub Stats**
 
