@@ -62,7 +62,7 @@
 <tr>
 <td align="center" width="800">
 <a href="https://github.com/nirajandhungel/Taxi-Booking-System">
-  <img src="https://socialify.git.ci/nirajandhungel/Taxi-Booking-System/image?description=1&descriptionEditable=Python-based%20taxi%20booking%20application%20with%20real-time%20fare%20calculation%20and%20admin%20panel.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Taxi Booking System"/>
+  <img width="100%" height="707" alt="image" src="https://github.com/user-attachments/assets/96811919-6e9a-40ef-9f88-3f6a62b82f4a"  alt="Taxi Booking System" />
 </a>
 <h3>🚖 Python Taxi Booking System</h3>
 <p>📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.</p>
