@@ -54,32 +54,50 @@
 </div>
 
 ---
-
 ## 🌟 Featured Projects
 
 <div align="center">
 
-### 🚖 Python Taxi Booking System
+<table>
+<tr>
+<td align="center" width="500">
 <a href="https://github.com/nirajandhungel/Taxi-Booking-System">
-  <img src="https://socialify.git.ci/nirajandhungel/Taxi-Booking-System/image?description=1&descriptionEditable=Python-based%20taxi%20booking%20application%20with%20real-time%20fare%20calculation%20and%20separate%20admin%20%26%20customer%20modules.&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="500" alt="Taxi Booking System"/>
+  <img src="https://socialify.git.ci/nirajandhungel/Taxi-Booking-System/image?description=1&descriptionEditable=Python-based%20taxi%20booking%20application%20with%20real-time%20fare%20calculation%20and%20admin%20panel.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Taxi Booking System"/>
 </a>
+<h3>🚖 Python Taxi Booking System</h3>
+<p>📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black&style=for-the-badge"/>
+</td>
+</tr>
 
----
-
-### 🚙 Java Sahara Rentals
+<tr>
+<td align="center" width="500">
 <a href="https://github.com/nirajandhungel/Sahara-Rentals">
-  <img src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%2C%20booking%20management%2C%20and%20customer%20records.&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="500" alt="Sahara Rentals"/>
+  <img src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%20and%20customer%20records.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Sahara Rentals"/>
 </a>
+<h3>🚙 Java Sahara Rentals</h3>
+<p>📌 Java-based car rental management system with booking management, vehicle inventory, and customer tracking.</p>
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+</td>
+</tr>
 
----
-
-### 🌐 Expense Tracker (React)
+<tr>
+<td align="center" width="500">
 <a href="https://github.com/nirajandhungel/Expense-Tracker">
-  <img src="https://socialify.git.ci/nirajandhungel/Expense-Tracker/image?description=1&descriptionEditable=Modern%20React%20web%20app%20for%20tracking%20expenses%2C%20visualising%20spending%20habits%20with%20charts%2C%20and%20managing%20budgets.&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" width="500" alt="Expense Tracker"/>
+  <img src="https://socialify.git.ci/nirajandhungel/Expense-Tracker/image?description=1&descriptionEditable=Modern%20React%20web%20app%20for%20tracking%20expenses%20and%20visualising%20spending%20habits.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Expense Tracker"/>
 </a>
+<h3>🌐 Expense Tracker (React)</h3>
+<p>📌 Web app built with React to track expenses, visualise spending habits with charts, and manage budgets effectively.</p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
 </div>
-
 
 
 ## 📈 **GitHub Stats**
