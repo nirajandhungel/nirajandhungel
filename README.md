@@ -65,7 +65,7 @@
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
       <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg" alt="Read Docs"  width="30" height="30"  />
+        <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8c9430ff-2419-4825-b0d5-409b060cb2e3" alt="Read Docs"  width="30" height="30"/>
       </a>
       <a href="https://github.com/nirajandhungel/Expense-Tracker/issues" style="text-decoration: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project"  width="30" height="30"  />
