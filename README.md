@@ -68,10 +68,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30" />
       </a>
       <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg" alt="Read Docs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg" alt="Read Docs"  width="30" height="30"  />
       </a>
       <a href="https://github.com/nirajandhungel/Expense-Tracker/issues" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project"  width="30" height="30"  />
       </a>
     </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
@@ -94,7 +94,7 @@
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
       <a href="https://github.com/nirajandhungel/Taxi-Booking-System" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project"  width="30" height="30"  />
       </a>
     </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
@@ -116,7 +116,7 @@
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
       <a href="https://github.com/nirajandhungel/Sahara-Rentals" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project"  width="30" height="30"  />
       </a>
     </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
