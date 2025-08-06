@@ -60,7 +60,7 @@
 
 <table>
 <tr>
-<td align="center" width="500">
+<td align="center" width="800">
 <a href="https://github.com/nirajandhungel/Taxi-Booking-System">
   <img src="https://socialify.git.ci/nirajandhungel/Taxi-Booking-System/image?description=1&descriptionEditable=Python-based%20taxi%20booking%20application%20with%20real-time%20fare%20calculation%20and%20admin%20panel.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Taxi Booking System"/>
 </a>
@@ -72,7 +72,7 @@
 </tr>
 
 <tr>
-<td align="center" width="500">
+<td align="center" width="800">
 <a href="https://github.com/nirajandhungel/Sahara-Rentals">
   <img src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%20and%20customer%20records.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Sahara Rentals"/>
 </a>
@@ -84,7 +84,7 @@
 </tr>
 
 <tr>
-<td align="center" width="500">
+<td align="center" width="800">
 <a href="https://github.com/nirajandhungel/Expense-Tracker">
   <img src="https://socialify.git.ci/nirajandhungel/Expense-Tracker/image?description=1&descriptionEditable=Modern%20React%20web%20app%20for%20tracking%20expenses%20and%20visualising%20spending%20habits.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" width="100%" alt="Expense Tracker"/>
 </a>
