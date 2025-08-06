@@ -68,10 +68,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30" />
       </a>
       <a href="https://github.com/nirajandhungel/Expense-Tracker#readme" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Read_Docs-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black&color=58a6ff" alt="Read Docs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/readthedocs/readthedocs-original.svg" alt="Read Docs" />
       </a>
       <a href="https://github.com/nirajandhungel/Expense-Tracker/issues" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Report_Issue-FFFFFF?style=for-the-badge&logo=github&logoColor=black&color=58a6ff" alt="Report Issue" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project" />
       </a>
     </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
@@ -94,13 +94,12 @@
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
       <a href="https://github.com/nirajandhungel/Taxi-Booking-System" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff" alt="View Project" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project" />
       </a>
     </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=20232a" alt="Python" />
-      <img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black&style=for-the-badge&labelColor=20232a" alt="Tkinter" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=20232a" alt="SQLite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="30" height="30"/>
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Taxi-Booking-System" target="_blank" rel="noopener noreferrer">
@@ -117,13 +116,12 @@
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 15px;">
       <a href="https://github.com/nirajandhungel/Sahara-Rentals" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white&color=58a6ff" alt="View Project" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  alt="View Project" />
       </a>
     </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a" alt="Java" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=20232a" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Swing-527AA3?logo=java&logoColor=white&style=for-the-badge&labelColor=20232a" alt="Swing" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="30" height="30"/>
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank" rel="noopener noreferrer">
