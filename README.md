@@ -95,7 +95,7 @@
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank" rel="noopener noreferrer">
-        <img src="https://socialify.git.ci/nirajandhungel/Sahara-Rentals/image?description=1&descriptionEditable=Java-based%20car%20rental%20management%20system%20with%20vehicle%20inventory%20and%20customer%20records.&font=Raleway&pattern=Floating%20Cogs&theme=Dark" alt="Sahara Rentals Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/2216f814-137e-480b-8ef4-3cf8cd0faf24" alt="Taxi Booking System Screenshot" />
       </a>
     </div>
   </section>
