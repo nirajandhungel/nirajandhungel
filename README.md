@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Nirajan Dhungel !
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/dc41e0c4-f9d7-48c9-b642-e9baef5b6356" />:info@nirajandhungel.com.np
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/dc41e0c4-f9d7-48c9-b642-e9baef5b6356" />:info@nirajandhungel.com.np
 
 
 
