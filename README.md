@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Nirajan Dhungel !
 <div style="display: flex; align-items: center;  gap: 6px;">
-  <img width="20" height="20" src="https://github.com/user-attachments/assets/dc41e0c4-f9d7-48c9-b642-e9baef5b6356" alt="Mail Icon" />
-  <span>info@nirajandhungel.com.np</span>
+  Email: <span>info@nirajandhungel.com.np</span>
 </div>
 
 ---
