@@ -58,6 +58,26 @@
 
 <div align="center" style="max-width: 800px; margin: auto;">
 
+  <!-- Futsmandu mobile app -->
+  <section style="margin-bottom: 50px; text-align: center;">
+    <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">⚽ Futsmandu (Flutter & Node.js)</h3>
+    <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
+      📌 A full-featured Futsal ecosystem with Flutter frontend for iOS, Android, and web, backed by a TypeScript Node.js server. Streamlines booking, team management, and analytics for players, court owners, and admins.
+    </p>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50" />
+    </div>
+    <div style="margin-top: 25px;">
+      <a href="https://github.com/nirajandhungel/futsmandu-app" target="_blank" rel="noopener noreferrer">
+        <img width="1898" height="936" alt="Futsmandu Screenshot" src="/projects/futsmandu-logo.png" />
+      </a>
+    </div>
+  </section>
+
+  
   <!-- Expense Tracker Project -->
   <section style="margin-bottom: 50px; text-align: center;">
     <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">💰 Expense Tracker (React)</h3>
