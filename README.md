@@ -72,7 +72,7 @@
     </div>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/futsmandu-app" target="_blank" rel="noopener noreferrer">
-        <img width="1898" height="936" alt="Futsmandu Logo" src="https://github.com/user-attachments/assets/e0757c17-1919-4b39-93c3-0551bfbf5f49" />
+        <img width="1398" height="536" alt="Futsmandu Logo" src="https://github.com/user-attachments/assets/e0757c17-1919-4b39-93c3-0551bfbf5f49" />
       </a>
     </div>
   </section>
