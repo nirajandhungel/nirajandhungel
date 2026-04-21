@@ -70,12 +70,12 @@
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 A full-featured Futsal ecosystem with Flutter frontend for iOS, Android, and web, backed by a TypeScript Node.js server. Streamlines booking, team management, and analytics for players, court owners, and admins.
     </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="50" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="50" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="50" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50" />
-    </div>
+    <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+</p>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/futsmandu-app" target="_blank" rel="noopener noreferrer">
         <img width="1398" height="536" alt="Futsmandu Logo" src="https://github.com/user-attachments/assets/e0757c17-1919-4b39-93c3-0551bfbf5f49" />
