@@ -90,11 +90,11 @@
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 Web app built with React to track expenses, visualize spending habits with interactive charts, and manage budgets effectively with user-friendly dashboard.
     </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="50" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="50" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="50" height="50" />
-    </div>
+    <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+</p>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Expense-Tracker" target="_blank" rel="noopener noreferrer">
         <img width="1898" height="936" alt="image" src="https://github.com/user-attachments/assets/fa6a4520-9ce5-4643-9c67-cd868c0f40a4" alt="Expense Tracker Screenshot" />
@@ -108,10 +108,10 @@
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 Desktop taxi booking app in Python with real-time fare calculation, admin/customer modules, and booking management.
     </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="50" height="50"/>
-    </div>
+    <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
+</p>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Taxi-Booking-System" target="_blank" rel="noopener noreferrer">
         <img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/e0a0094e-3ca1-42cd-a88e-e504180f503b" alt="Taxi Booking System Screenshot" />
@@ -125,10 +125,10 @@
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 Java-based car rental management system with booking management, vehicle inventory, and customer tracking.
     </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQl" alt="MySQL" width="50" height="50"/>
-    </div>
+    <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
+</p>
     <div style="margin-top: 25px;">
       <a href="https://github.com/nirajandhungel/Sahara-Rentals" target="_blank" rel="noopener noreferrer">
       <img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/2216f814-137e-480b-8ef4-3cf8cd0faf24" alt="Taxi Booking System Screenshot" />
