@@ -9,7 +9,6 @@
 
 <div align="center">
 
----
 
 ### **Programming Languages**
 <p>
@@ -20,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </p>
 
----
 
 ### **Frontend Development**
 <p>
@@ -32,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
 </p>
 
----
-
 ### **Backend & Databases**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -42,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
----
 
 ### **Tools & Platforms**
 <p>
