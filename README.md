@@ -109,8 +109,7 @@
 </table>
   </section>
 
-    <!-- Recipenest web app -->
-    
+  <!-- Recipenest web app -->    
   <section style="margin-bottom: 50px; text-align: center;">
     <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">⚽ Recipenest web app (React & Node.js, Web Socket)</h3>
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
