@@ -76,9 +76,53 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
 </p>
+   <table>
+  <tr>
+    <td>
+      <a href="https://github.com/nirajandhungel/futsmandu-app">
+        <img
+          width="250"
+          src="https://github.com/user-attachments/assets/580dee07-bab5-4251-adad-042d5f76a56c"
+          alt="FUTSMANDU screenshot 1"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nirajandhungel/futsmandu-app">
+        <img
+          width="250"
+          src="https://github.com/user-attachments/assets/cdd350fe-6ba4-4910-a838-cb003f54ff7a"
+          alt="FUTSMANDU screenshot 2"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nirajandhungel/futsmandu-app">
+        <img
+          width="250"
+          src="https://github.com/user-attachments/assets/dcb4cae7-b231-44ac-b9ab-51cccc2fa68d"
+          alt="FUTSMANDU screenshot 3"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+  </section>
+
+    <!-- Recipenest web app -->
+  <section style="margin-bottom: 50px; text-align: center;">
+    <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">⚽ Futsmandu (Flutter & Node.js)</h3>
+    <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
+      📌 RecipeNest is a premium, full-stack ecosystem designed to bridge the gap between food enthusiasts and professional chefs. Discover, create, and share culinary excellence.
+    </p>
+    <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+</p>
     <div style="margin-top: 25px;">
-      <a href="https://github.com/nirajandhungel/futsmandu-app" target="_blank" rel="noopener noreferrer">
-        <img width="1398" height="536" alt="Futsmandu Logo" src="https://github.com/user-attachments/assets/e0757c17-1919-4b39-93c3-0551bfbf5f49" />
+      <a href="https://github.com/recipe-nest" target="_blank" rel="noopener noreferrer">
+       <img width="1913" height="966" alt="recipe" src="https://github.com/user-attachments/assets/ced174fc-ecf9-4211-9dc1-c5ebc9b9d797" />
       </a>
     </div>
   </section>
