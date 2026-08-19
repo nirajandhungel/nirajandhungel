@@ -119,7 +119,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </p>
     <div style="margin-top: 25px;">
-      <a href="https://github.com/recipe-nest" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/nirajandhungel/recipe-nest" target="_blank" rel="noopener noreferrer">
        <img width="1913" height="966" alt="recipe" src="https://github.com/user-attachments/assets/ced174fc-ecf9-4211-9dc1-c5ebc9b9d797" />
       </a>
     </div>
