@@ -110,8 +110,9 @@
   </section>
 
     <!-- Recipenest web app -->
+    
   <section style="margin-bottom: 50px; text-align: center;">
-    <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">⚽ Futsmandu (Flutter & Node.js)</h3>
+    <h3 style="font-size: 1.5rem; color: #58a6ff; margin-bottom: 10px;">⚽ Recipenest web app (React & Node.js, Web Socket)</h3>
     <p style="color: #c9d1d9; max-width: 700px; margin: 0 auto 20px;">
       📌 RecipeNest is a premium, full-stack ecosystem designed to bridge the gap between food enthusiasts and professional chefs. Discover, create, and share culinary excellence.
     </p>
